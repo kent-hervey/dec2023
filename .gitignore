@@ -1,0 +1,27 @@
+
+
+ # Compiled class file
+*.class
+
+
+# Log file
+*.log
+
+logs/spring-boot-logger.log
+logs/
+target/
+
+### VS Code ###
+.vscode/
+
+### Mac ###
+.DS_Store
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### jenv ###
+.java-version
